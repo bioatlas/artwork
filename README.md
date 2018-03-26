@@ -2,7 +2,7 @@
 
 Styling and graphical assets... A first stab at a logo is available, files are [here](images), for example:
 
-[!](images/bioatlas-logo-square.png)
+![](images/bioatlas-logo-square.png)
 
 ## Design brief
 
